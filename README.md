@@ -44,6 +44,7 @@ Hello! I'm **Roberto Sopranzetti**, a Full Stack Developer based in Macerata, It
 ### 🌐 Frontend & Frameworks
 <div align="center">
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" /></a>
 </div>
 
 ---
