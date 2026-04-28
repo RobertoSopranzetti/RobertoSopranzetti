@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599c,50:3178c6,100:3776ab&height=230&section=header&text=Roberto%20Sopranzetti&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Full%20Stack%20Developer&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599c,50:3178c6,100:3776ab&height=230&section=header&text=Roberto%20Sopranzetti&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
 
 ---
 
@@ -18,7 +18,7 @@
 <!--             ABOUT ME          -->
 <!-- ============================= -->
 
-Hello! I'm **Roberto Sopranzetti**, a Full Stack Developer based in Macerata, Italy.
+Hello! I'm **Roberto Sopranzetti**, a Software Engineer based in Macerata, Italy, with a strong passion for AI technologies. I focus on developing full-stack solutions while constantly exploring and integrating new artificial intelligence tools into my workflow.
 
 ---
 
