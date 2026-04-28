@@ -2,7 +2,7 @@
 
 **Full Stack Developer** — Macerata, Italy
 
-I build web applications and software systems with a focus on code quality and maintainability. I work across the full development stack, from backend services and database design to frontend interfaces, with attention to architecture and system integration.
+From backend services to frontend interfaces — building reliable software that connects databases, APIs, and users in a clean and maintainable way.
 
 ---
 
@@ -14,32 +14,42 @@ I build web applications and software systems with a focus on code quality and m
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-
-**Other**
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
-**Databases & Tools**
+**Backend & Database**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat)
+
+**Build & Tools**
+
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | [Camera_Scripts](https://github.com/RobertoSopranzetti/Camera_Scripts) | Records video around a trigger event — captures frames before and after a specific signal | Python |
-| [UDP_File_Transfer](https://github.com/RobertoSopranzetti/UDP_File_Transfer) | Client-server file transfer system built on the UDP protocol | Python |
-| [BeastTavern](https://github.com/RobertoSopranzetti/BeastTavern) | Java application with MySQL database integration via JDBC | Java |
+| [UDP_File_Transfer](https://github.com/RobertoSopranzetti/UDP_File_Transfer) | Client-server file transfer over UDP protocol | Python |
+| [BeastTavern](https://github.com/RobertoSopranzetti/BeastTavern) | Java app with MySQL database integration via JDBC | Java |
 | [TownfolkMagicShop-TW](https://github.com/RobertoSopranzetti/TownfolkMagicShop-TW) | Full-stack e-commerce web application | PHP |
-| [Moving-files-into-directories-script](https://github.com/RobertoSopranzetti/Moving-files-into-directories-script) | PowerShell automation script for file organization | PowerShell |
+| [Java-Wulf](https://github.com/RobertoSopranzetti/Java-Wulf) | OOP university project built with Gradle | Java |
+
+---
+
+## 📊 GitHub Stats
+
+![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoSopranzetti&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoSopranzetti&layout=compact&theme=default&hide_border=true)
 
 ---
 
