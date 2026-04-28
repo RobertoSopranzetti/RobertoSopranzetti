@@ -48,8 +48,10 @@ From backend services to frontend interfaces — building reliable software that
 
 ## 📊 GitHub Stats
 
-![Roberto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobertoSopranzetti&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoSopranzetti&layout=compact&theme=default&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobertoSopranzetti&show_icons=true&theme=transparent&hide_border=true" alt="Roberto's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoSopranzetti&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
