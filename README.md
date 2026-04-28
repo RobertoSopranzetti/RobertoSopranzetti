@@ -32,7 +32,6 @@ Hello! I'm **Roberto Sopranzetti**, a Full Stack Developer based in Macerata, It
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" /></a>
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" /></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" /></a>
@@ -67,6 +66,8 @@ Hello! I'm **Roberto Sopranzetti**, a Full Stack Developer based in Macerata, It
   <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" /></a>
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" /></a>
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /></a>
+  <a href="https://n8n.io/"><img src="https://img.shields.io/badge/n8n-FF6D5A?logo=n8n&logoColor=white" /></a>
+  <a href="https://modelcontextprotocol.io/"><img src="https://img.shields.io/badge/MCP-5046E4?logo=ai&logoColor=white" /></a>
 </div>
 
 ---
