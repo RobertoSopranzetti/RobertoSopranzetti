@@ -57,5 +57,6 @@ From backend services to frontend interfaces — building reliable software that
 
 ## 📬 Contact
 
-- **Email:** [sopranzetti.roberto@gmail.com](mailto:sopranzetti.roberto@gmail.com)
-- **LinkedIn:** [linkedin.com/in/roberto-sopranzetti](https://www.linkedin.com/in/roberto-sopranzetti)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sopranzetti.roberto@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roberto-sopranzetti)
+
