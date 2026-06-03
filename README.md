@@ -102,7 +102,7 @@ _Java app with MySQL database integration via JDBC_
 ---
 
 ### 🛒 [TownfolkMagicShop-TW](https://github.com/RobertoSopranzetti/TownfolkMagicShop-TW)
-_Full-stack e-commerce web application_
+_Full-stack e-commerce web application simulator_
 
 ✨ Built with **PHP**
 
